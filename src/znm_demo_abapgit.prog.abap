@@ -6,4 +6,4 @@
 REPORT ZNM_DEMO_ABAPGIT.
 
 
-WRITE: 'Hello World'.
+WRITE: 'Hello World NEW'.
